@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * a daily checklist of possible Covid symptoms.
  *
  * @author (Shreya Guddeti)
- * @Date (12/14/2020)
  */
 
 public class CovidScreening
